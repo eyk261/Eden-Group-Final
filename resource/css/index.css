@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    background-color: beige;
+    
+}
+.header {
+    margin-left: 80px;
+    margin-right: 200;
+}
+
+.btn-group {
+    
+    width: 20%;
+    border: none;
+    text-align: center;
+    float: left;}
+
+.duedate {
+    float: right;
+}
+    
+
+.tasklist {
+    float: right;
+}
+#status {
+    float:right
+}
+
+    
